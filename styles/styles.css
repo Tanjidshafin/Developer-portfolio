@@ -1,0 +1,86 @@
+* {
+  margin: 0;
+}
+.nav-title {
+  font-weight: 700;
+  font-size: 45px;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  /* align-items: center; */
+  margin: 51px 227px;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+nav ul {
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+nav ul li {
+  margin-left: 51px;
+}
+.primarycolour {
+  color: #fd6e0a;
+}
+
+.btn-primary {
+  height: 64px;
+  border-radius: 5px;
+  background: #fd6e0a;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  color: white;
+  border: 2px solid;
+  padding: 18px 35px;
+  text-align: center;
+}
+.btn-primary:hover {
+    background: #ffffff;
+    border: 2px dashed  #fd6e0a;
+    color: #fd6e0a;
+    cursor: pointer;
+    transition: all 300ms ease-in-out;
+}
+.First_title{
+  margin: 0 50px;
+display: flex;
+margin-top: 0px;
+
+}
+.first-line{
+  font-size: 30px;
+font-style: normal;
+font-weight: 600;
+margin-top: 300px;
+color: #474747;
+
+}
+.second-line{
+  font-size: 45px;
+font-style: normal;
+font-weight: 700;
+margin-top: 5px;
+margin-bottom: 20px;
+
+
+}
+.third-line{
+  font-size: 25px;
+font-style: normal;
+font-weight: 600;
+margin-bottom: 30px;
+}
+.Lami-to-safin{
+  margin: 0 167px;
+
+}
+.line-description{
+  font-size: 17px;
+  margin-bottom: 20px;
+  color: #757575;
+}
